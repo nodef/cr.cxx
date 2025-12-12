@@ -1,0 +1,26 @@
+{
+  "name": "cr.cxx",
+  "version": "1.2025.3",
+  "description": "cr.h: A Simple C Hot Reload Header-only Library; Danny Angelo Carminati Grein (2017).",
+  "keywords": [
+    "cxx",
+    "library",
+    "c",
+    "hot",
+    "reload"
+  ],
+  "homepage": "https://github.com/nodef/cr.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cr.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cr.cxx.git"
+  },
+  "license": "MIT",
+  "author": "wolfram77@gmail.com",
+  "main": "cr.h",
+  "scripts": {
+    "test": "exit"
+  }
+}
